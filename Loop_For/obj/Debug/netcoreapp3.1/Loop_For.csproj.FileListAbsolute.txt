@@ -1,0 +1,13 @@
+C:\Users\HP ENVY\source\repos\HolaMundo\Loop_For\bin\Debug\netcoreapp3.1\Loop_For.exe
+C:\Users\HP ENVY\source\repos\HolaMundo\Loop_For\bin\Debug\netcoreapp3.1\Loop_For.deps.json
+C:\Users\HP ENVY\source\repos\HolaMundo\Loop_For\bin\Debug\netcoreapp3.1\Loop_For.runtimeconfig.json
+C:\Users\HP ENVY\source\repos\HolaMundo\Loop_For\bin\Debug\netcoreapp3.1\Loop_For.runtimeconfig.dev.json
+C:\Users\HP ENVY\source\repos\HolaMundo\Loop_For\bin\Debug\netcoreapp3.1\Loop_For.dll
+C:\Users\HP ENVY\source\repos\HolaMundo\Loop_For\bin\Debug\netcoreapp3.1\Loop_For.pdb
+C:\Users\HP ENVY\source\repos\HolaMundo\Loop_For\obj\Debug\netcoreapp3.1\Loop_For.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP ENVY\source\repos\HolaMundo\Loop_For\obj\Debug\netcoreapp3.1\Loop_For.AssemblyInfoInputs.cache
+C:\Users\HP ENVY\source\repos\HolaMundo\Loop_For\obj\Debug\netcoreapp3.1\Loop_For.AssemblyInfo.cs
+C:\Users\HP ENVY\source\repos\HolaMundo\Loop_For\obj\Debug\netcoreapp3.1\Loop_For.csproj.CoreCompileInputs.cache
+C:\Users\HP ENVY\source\repos\HolaMundo\Loop_For\obj\Debug\netcoreapp3.1\Loop_For.dll
+C:\Users\HP ENVY\source\repos\HolaMundo\Loop_For\obj\Debug\netcoreapp3.1\Loop_For.pdb
+C:\Users\HP ENVY\source\repos\HolaMundo\Loop_For\obj\Debug\netcoreapp3.1\Loop_For.genruntimeconfig.cache

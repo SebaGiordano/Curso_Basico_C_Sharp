@@ -1,0 +1,14 @@
+C:\Users\HP ENVY\source\repos\HolaMundo\Toma_de_decisiones\bin\Debug\netcoreapp3.1\Toma_de_decisiones.exe
+C:\Users\HP ENVY\source\repos\HolaMundo\Toma_de_decisiones\bin\Debug\netcoreapp3.1\Toma_de_decisiones.deps.json
+C:\Users\HP ENVY\source\repos\HolaMundo\Toma_de_decisiones\bin\Debug\netcoreapp3.1\Toma_de_decisiones.runtimeconfig.json
+C:\Users\HP ENVY\source\repos\HolaMundo\Toma_de_decisiones\bin\Debug\netcoreapp3.1\Toma_de_decisiones.runtimeconfig.dev.json
+C:\Users\HP ENVY\source\repos\HolaMundo\Toma_de_decisiones\bin\Debug\netcoreapp3.1\Toma_de_decisiones.dll
+C:\Users\HP ENVY\source\repos\HolaMundo\Toma_de_decisiones\bin\Debug\netcoreapp3.1\Toma_de_decisiones.pdb
+C:\Users\HP ENVY\source\repos\HolaMundo\Toma_de_decisiones\obj\Debug\netcoreapp3.1\Toma_de_decisiones.csproj.AssemblyReference.cache
+C:\Users\HP ENVY\source\repos\HolaMundo\Toma_de_decisiones\obj\Debug\netcoreapp3.1\Toma_de_decisiones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP ENVY\source\repos\HolaMundo\Toma_de_decisiones\obj\Debug\netcoreapp3.1\Toma_de_decisiones.AssemblyInfoInputs.cache
+C:\Users\HP ENVY\source\repos\HolaMundo\Toma_de_decisiones\obj\Debug\netcoreapp3.1\Toma_de_decisiones.AssemblyInfo.cs
+C:\Users\HP ENVY\source\repos\HolaMundo\Toma_de_decisiones\obj\Debug\netcoreapp3.1\Toma_de_decisiones.csproj.CoreCompileInputs.cache
+C:\Users\HP ENVY\source\repos\HolaMundo\Toma_de_decisiones\obj\Debug\netcoreapp3.1\Toma_de_decisiones.dll
+C:\Users\HP ENVY\source\repos\HolaMundo\Toma_de_decisiones\obj\Debug\netcoreapp3.1\Toma_de_decisiones.pdb
+C:\Users\HP ENVY\source\repos\HolaMundo\Toma_de_decisiones\obj\Debug\netcoreapp3.1\Toma_de_decisiones.genruntimeconfig.cache

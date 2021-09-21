@@ -1,0 +1,14 @@
+C:\Users\HP ENVY\source\repos\HolaMundo\If_y_else_con_tryparse\bin\Debug\netcoreapp3.1\If_y_else_con_tryparse.exe
+C:\Users\HP ENVY\source\repos\HolaMundo\If_y_else_con_tryparse\bin\Debug\netcoreapp3.1\If_y_else_con_tryparse.deps.json
+C:\Users\HP ENVY\source\repos\HolaMundo\If_y_else_con_tryparse\bin\Debug\netcoreapp3.1\If_y_else_con_tryparse.runtimeconfig.json
+C:\Users\HP ENVY\source\repos\HolaMundo\If_y_else_con_tryparse\bin\Debug\netcoreapp3.1\If_y_else_con_tryparse.runtimeconfig.dev.json
+C:\Users\HP ENVY\source\repos\HolaMundo\If_y_else_con_tryparse\bin\Debug\netcoreapp3.1\If_y_else_con_tryparse.dll
+C:\Users\HP ENVY\source\repos\HolaMundo\If_y_else_con_tryparse\bin\Debug\netcoreapp3.1\If_y_else_con_tryparse.pdb
+C:\Users\HP ENVY\source\repos\HolaMundo\If_y_else_con_tryparse\obj\Debug\netcoreapp3.1\If_y_else_con_tryparse.csproj.AssemblyReference.cache
+C:\Users\HP ENVY\source\repos\HolaMundo\If_y_else_con_tryparse\obj\Debug\netcoreapp3.1\If_y_else_con_tryparse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP ENVY\source\repos\HolaMundo\If_y_else_con_tryparse\obj\Debug\netcoreapp3.1\If_y_else_con_tryparse.AssemblyInfoInputs.cache
+C:\Users\HP ENVY\source\repos\HolaMundo\If_y_else_con_tryparse\obj\Debug\netcoreapp3.1\If_y_else_con_tryparse.AssemblyInfo.cs
+C:\Users\HP ENVY\source\repos\HolaMundo\If_y_else_con_tryparse\obj\Debug\netcoreapp3.1\If_y_else_con_tryparse.csproj.CoreCompileInputs.cache
+C:\Users\HP ENVY\source\repos\HolaMundo\If_y_else_con_tryparse\obj\Debug\netcoreapp3.1\If_y_else_con_tryparse.dll
+C:\Users\HP ENVY\source\repos\HolaMundo\If_y_else_con_tryparse\obj\Debug\netcoreapp3.1\If_y_else_con_tryparse.pdb
+C:\Users\HP ENVY\source\repos\HolaMundo\If_y_else_con_tryparse\obj\Debug\netcoreapp3.1\If_y_else_con_tryparse.genruntimeconfig.cache

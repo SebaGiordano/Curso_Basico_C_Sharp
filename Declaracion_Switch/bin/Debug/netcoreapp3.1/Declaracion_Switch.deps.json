@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Declaracion_Switch/1.0.0": {
+        "runtime": {
+          "Declaracion_Switch.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Declaracion_Switch/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

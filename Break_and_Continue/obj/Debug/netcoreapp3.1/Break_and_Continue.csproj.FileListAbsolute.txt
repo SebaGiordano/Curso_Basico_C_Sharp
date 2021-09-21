@@ -1,0 +1,13 @@
+C:\Users\HP ENVY\source\repos\HolaMundo\Break_and_Continue\bin\Debug\netcoreapp3.1\Break_and_Continue.exe
+C:\Users\HP ENVY\source\repos\HolaMundo\Break_and_Continue\bin\Debug\netcoreapp3.1\Break_and_Continue.deps.json
+C:\Users\HP ENVY\source\repos\HolaMundo\Break_and_Continue\bin\Debug\netcoreapp3.1\Break_and_Continue.runtimeconfig.json
+C:\Users\HP ENVY\source\repos\HolaMundo\Break_and_Continue\bin\Debug\netcoreapp3.1\Break_and_Continue.runtimeconfig.dev.json
+C:\Users\HP ENVY\source\repos\HolaMundo\Break_and_Continue\bin\Debug\netcoreapp3.1\Break_and_Continue.dll
+C:\Users\HP ENVY\source\repos\HolaMundo\Break_and_Continue\bin\Debug\netcoreapp3.1\Break_and_Continue.pdb
+C:\Users\HP ENVY\source\repos\HolaMundo\Break_and_Continue\obj\Debug\netcoreapp3.1\Break_and_Continue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP ENVY\source\repos\HolaMundo\Break_and_Continue\obj\Debug\netcoreapp3.1\Break_and_Continue.AssemblyInfoInputs.cache
+C:\Users\HP ENVY\source\repos\HolaMundo\Break_and_Continue\obj\Debug\netcoreapp3.1\Break_and_Continue.AssemblyInfo.cs
+C:\Users\HP ENVY\source\repos\HolaMundo\Break_and_Continue\obj\Debug\netcoreapp3.1\Break_and_Continue.csproj.CoreCompileInputs.cache
+C:\Users\HP ENVY\source\repos\HolaMundo\Break_and_Continue\obj\Debug\netcoreapp3.1\Break_and_Continue.dll
+C:\Users\HP ENVY\source\repos\HolaMundo\Break_and_Continue\obj\Debug\netcoreapp3.1\Break_and_Continue.pdb
+C:\Users\HP ENVY\source\repos\HolaMundo\Break_and_Continue\obj\Debug\netcoreapp3.1\Break_and_Continue.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\HP ENVY\source\repos\HolaMundo\Manejo_de_errores\obj\Debug\netcoreapp3.1\Manejo_de_errores.csproj.AssemblyReference.cache
+C:\Users\HP ENVY\source\repos\HolaMundo\Manejo_de_errores\obj\Debug\netcoreapp3.1\Manejo_de_errores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP ENVY\source\repos\HolaMundo\Manejo_de_errores\obj\Debug\netcoreapp3.1\Manejo_de_errores.AssemblyInfoInputs.cache
+C:\Users\HP ENVY\source\repos\HolaMundo\Manejo_de_errores\obj\Debug\netcoreapp3.1\Manejo_de_errores.AssemblyInfo.cs
+C:\Users\HP ENVY\source\repos\HolaMundo\Manejo_de_errores\obj\Debug\netcoreapp3.1\Manejo_de_errores.csproj.CoreCompileInputs.cache
+C:\Users\HP ENVY\source\repos\HolaMundo\Manejo_de_errores\bin\Debug\netcoreapp3.1\Manejo_de_errores.exe
+C:\Users\HP ENVY\source\repos\HolaMundo\Manejo_de_errores\bin\Debug\netcoreapp3.1\Manejo_de_errores.deps.json
+C:\Users\HP ENVY\source\repos\HolaMundo\Manejo_de_errores\bin\Debug\netcoreapp3.1\Manejo_de_errores.runtimeconfig.json
+C:\Users\HP ENVY\source\repos\HolaMundo\Manejo_de_errores\bin\Debug\netcoreapp3.1\Manejo_de_errores.runtimeconfig.dev.json
+C:\Users\HP ENVY\source\repos\HolaMundo\Manejo_de_errores\bin\Debug\netcoreapp3.1\Manejo_de_errores.dll
+C:\Users\HP ENVY\source\repos\HolaMundo\Manejo_de_errores\bin\Debug\netcoreapp3.1\Manejo_de_errores.pdb
+C:\Users\HP ENVY\source\repos\HolaMundo\Manejo_de_errores\obj\Debug\netcoreapp3.1\Manejo_de_errores.dll
+C:\Users\HP ENVY\source\repos\HolaMundo\Manejo_de_errores\obj\Debug\netcoreapp3.1\Manejo_de_errores.pdb
+C:\Users\HP ENVY\source\repos\HolaMundo\Manejo_de_errores\obj\Debug\netcoreapp3.1\Manejo_de_errores.genruntimeconfig.cache

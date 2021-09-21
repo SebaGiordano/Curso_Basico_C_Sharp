@@ -1,0 +1,14 @@
+C:\Users\HP ENVY\source\repos\HolaMundo\Declaracion_Switch\bin\Debug\netcoreapp3.1\Declaracion_Switch.exe
+C:\Users\HP ENVY\source\repos\HolaMundo\Declaracion_Switch\bin\Debug\netcoreapp3.1\Declaracion_Switch.deps.json
+C:\Users\HP ENVY\source\repos\HolaMundo\Declaracion_Switch\bin\Debug\netcoreapp3.1\Declaracion_Switch.runtimeconfig.json
+C:\Users\HP ENVY\source\repos\HolaMundo\Declaracion_Switch\bin\Debug\netcoreapp3.1\Declaracion_Switch.runtimeconfig.dev.json
+C:\Users\HP ENVY\source\repos\HolaMundo\Declaracion_Switch\bin\Debug\netcoreapp3.1\Declaracion_Switch.dll
+C:\Users\HP ENVY\source\repos\HolaMundo\Declaracion_Switch\bin\Debug\netcoreapp3.1\Declaracion_Switch.pdb
+C:\Users\HP ENVY\source\repos\HolaMundo\Declaracion_Switch\obj\Debug\netcoreapp3.1\Declaracion_Switch.csproj.AssemblyReference.cache
+C:\Users\HP ENVY\source\repos\HolaMundo\Declaracion_Switch\obj\Debug\netcoreapp3.1\Declaracion_Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP ENVY\source\repos\HolaMundo\Declaracion_Switch\obj\Debug\netcoreapp3.1\Declaracion_Switch.AssemblyInfoInputs.cache
+C:\Users\HP ENVY\source\repos\HolaMundo\Declaracion_Switch\obj\Debug\netcoreapp3.1\Declaracion_Switch.AssemblyInfo.cs
+C:\Users\HP ENVY\source\repos\HolaMundo\Declaracion_Switch\obj\Debug\netcoreapp3.1\Declaracion_Switch.csproj.CoreCompileInputs.cache
+C:\Users\HP ENVY\source\repos\HolaMundo\Declaracion_Switch\obj\Debug\netcoreapp3.1\Declaracion_Switch.dll
+C:\Users\HP ENVY\source\repos\HolaMundo\Declaracion_Switch\obj\Debug\netcoreapp3.1\Declaracion_Switch.pdb
+C:\Users\HP ENVY\source\repos\HolaMundo\Declaracion_Switch\obj\Debug\netcoreapp3.1\Declaracion_Switch.genruntimeconfig.cache

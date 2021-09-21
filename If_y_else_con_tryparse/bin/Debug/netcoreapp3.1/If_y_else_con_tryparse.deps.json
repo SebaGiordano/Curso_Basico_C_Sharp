@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "If_y_else_con_tryparse/1.0.0": {
+        "runtime": {
+          "If_y_else_con_tryparse.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "If_y_else_con_tryparse/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

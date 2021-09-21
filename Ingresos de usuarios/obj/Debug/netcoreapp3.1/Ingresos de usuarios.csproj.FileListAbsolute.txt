@@ -1,0 +1,14 @@
+C:\Users\HP ENVY\source\repos\HolaMundo\Ingresos de usuarios\bin\Debug\netcoreapp3.1\Ingresos de usuarios.exe
+C:\Users\HP ENVY\source\repos\HolaMundo\Ingresos de usuarios\bin\Debug\netcoreapp3.1\Ingresos de usuarios.deps.json
+C:\Users\HP ENVY\source\repos\HolaMundo\Ingresos de usuarios\bin\Debug\netcoreapp3.1\Ingresos de usuarios.runtimeconfig.json
+C:\Users\HP ENVY\source\repos\HolaMundo\Ingresos de usuarios\bin\Debug\netcoreapp3.1\Ingresos de usuarios.runtimeconfig.dev.json
+C:\Users\HP ENVY\source\repos\HolaMundo\Ingresos de usuarios\bin\Debug\netcoreapp3.1\Ingresos de usuarios.dll
+C:\Users\HP ENVY\source\repos\HolaMundo\Ingresos de usuarios\bin\Debug\netcoreapp3.1\Ingresos de usuarios.pdb
+C:\Users\HP ENVY\source\repos\HolaMundo\Ingresos de usuarios\obj\Debug\netcoreapp3.1\Ingresos de usuarios.csproj.AssemblyReference.cache
+C:\Users\HP ENVY\source\repos\HolaMundo\Ingresos de usuarios\obj\Debug\netcoreapp3.1\Ingresos de usuarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP ENVY\source\repos\HolaMundo\Ingresos de usuarios\obj\Debug\netcoreapp3.1\Ingresos de usuarios.AssemblyInfoInputs.cache
+C:\Users\HP ENVY\source\repos\HolaMundo\Ingresos de usuarios\obj\Debug\netcoreapp3.1\Ingresos de usuarios.AssemblyInfo.cs
+C:\Users\HP ENVY\source\repos\HolaMundo\Ingresos de usuarios\obj\Debug\netcoreapp3.1\Ingresos de usuarios.csproj.CoreCompileInputs.cache
+C:\Users\HP ENVY\source\repos\HolaMundo\Ingresos de usuarios\obj\Debug\netcoreapp3.1\Ingresos de usuarios.dll
+C:\Users\HP ENVY\source\repos\HolaMundo\Ingresos de usuarios\obj\Debug\netcoreapp3.1\Ingresos de usuarios.pdb
+C:\Users\HP ENVY\source\repos\HolaMundo\Ingresos de usuarios\obj\Debug\netcoreapp3.1\Ingresos de usuarios.genruntimeconfig.cache

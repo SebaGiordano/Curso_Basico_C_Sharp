@@ -1,0 +1,14 @@
+C:\Users\HP ENVY\source\repos\HolaMundo\Operadores\obj\Debug\netcoreapp3.1\Operadores.csproj.AssemblyReference.cache
+C:\Users\HP ENVY\source\repos\HolaMundo\Operadores\obj\Debug\netcoreapp3.1\Operadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP ENVY\source\repos\HolaMundo\Operadores\obj\Debug\netcoreapp3.1\Operadores.AssemblyInfoInputs.cache
+C:\Users\HP ENVY\source\repos\HolaMundo\Operadores\obj\Debug\netcoreapp3.1\Operadores.AssemblyInfo.cs
+C:\Users\HP ENVY\source\repos\HolaMundo\Operadores\obj\Debug\netcoreapp3.1\Operadores.csproj.CoreCompileInputs.cache
+C:\Users\HP ENVY\source\repos\HolaMundo\Operadores\bin\Debug\netcoreapp3.1\Operadores.exe
+C:\Users\HP ENVY\source\repos\HolaMundo\Operadores\bin\Debug\netcoreapp3.1\Operadores.deps.json
+C:\Users\HP ENVY\source\repos\HolaMundo\Operadores\bin\Debug\netcoreapp3.1\Operadores.runtimeconfig.json
+C:\Users\HP ENVY\source\repos\HolaMundo\Operadores\bin\Debug\netcoreapp3.1\Operadores.runtimeconfig.dev.json
+C:\Users\HP ENVY\source\repos\HolaMundo\Operadores\bin\Debug\netcoreapp3.1\Operadores.dll
+C:\Users\HP ENVY\source\repos\HolaMundo\Operadores\bin\Debug\netcoreapp3.1\Operadores.pdb
+C:\Users\HP ENVY\source\repos\HolaMundo\Operadores\obj\Debug\netcoreapp3.1\Operadores.dll
+C:\Users\HP ENVY\source\repos\HolaMundo\Operadores\obj\Debug\netcoreapp3.1\Operadores.pdb
+C:\Users\HP ENVY\source\repos\HolaMundo\Operadores\obj\Debug\netcoreapp3.1\Operadores.genruntimeconfig.cache

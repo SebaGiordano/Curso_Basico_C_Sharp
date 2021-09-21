@@ -1,0 +1,13 @@
+C:\Users\HP ENVY\source\repos\HolaMundo\Metodos con retorno\bin\Debug\netcoreapp3.1\Metodos con retorno.exe
+C:\Users\HP ENVY\source\repos\HolaMundo\Metodos con retorno\bin\Debug\netcoreapp3.1\Metodos con retorno.deps.json
+C:\Users\HP ENVY\source\repos\HolaMundo\Metodos con retorno\bin\Debug\netcoreapp3.1\Metodos con retorno.runtimeconfig.json
+C:\Users\HP ENVY\source\repos\HolaMundo\Metodos con retorno\bin\Debug\netcoreapp3.1\Metodos con retorno.runtimeconfig.dev.json
+C:\Users\HP ENVY\source\repos\HolaMundo\Metodos con retorno\bin\Debug\netcoreapp3.1\Metodos con retorno.dll
+C:\Users\HP ENVY\source\repos\HolaMundo\Metodos con retorno\bin\Debug\netcoreapp3.1\Metodos con retorno.pdb
+C:\Users\HP ENVY\source\repos\HolaMundo\Metodos con retorno\obj\Debug\netcoreapp3.1\Metodos con retorno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP ENVY\source\repos\HolaMundo\Metodos con retorno\obj\Debug\netcoreapp3.1\Metodos con retorno.AssemblyInfoInputs.cache
+C:\Users\HP ENVY\source\repos\HolaMundo\Metodos con retorno\obj\Debug\netcoreapp3.1\Metodos con retorno.AssemblyInfo.cs
+C:\Users\HP ENVY\source\repos\HolaMundo\Metodos con retorno\obj\Debug\netcoreapp3.1\Metodos con retorno.csproj.CoreCompileInputs.cache
+C:\Users\HP ENVY\source\repos\HolaMundo\Metodos con retorno\obj\Debug\netcoreapp3.1\Metodos con retorno.dll
+C:\Users\HP ENVY\source\repos\HolaMundo\Metodos con retorno\obj\Debug\netcoreapp3.1\Metodos con retorno.pdb
+C:\Users\HP ENVY\source\repos\HolaMundo\Metodos con retorno\obj\Debug\netcoreapp3.1\Metodos con retorno.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\HP ENVY\source\repos\HolaMundo\Declaracion_if_mejorada\bin\Debug\netcoreapp3.1\Declaracion_if_mejorada.exe
+C:\Users\HP ENVY\source\repos\HolaMundo\Declaracion_if_mejorada\bin\Debug\netcoreapp3.1\Declaracion_if_mejorada.deps.json
+C:\Users\HP ENVY\source\repos\HolaMundo\Declaracion_if_mejorada\bin\Debug\netcoreapp3.1\Declaracion_if_mejorada.runtimeconfig.json
+C:\Users\HP ENVY\source\repos\HolaMundo\Declaracion_if_mejorada\bin\Debug\netcoreapp3.1\Declaracion_if_mejorada.runtimeconfig.dev.json
+C:\Users\HP ENVY\source\repos\HolaMundo\Declaracion_if_mejorada\bin\Debug\netcoreapp3.1\Declaracion_if_mejorada.dll
+C:\Users\HP ENVY\source\repos\HolaMundo\Declaracion_if_mejorada\bin\Debug\netcoreapp3.1\Declaracion_if_mejorada.pdb
+C:\Users\HP ENVY\source\repos\HolaMundo\Declaracion_if_mejorada\obj\Debug\netcoreapp3.1\Declaracion_if_mejorada.csproj.AssemblyReference.cache
+C:\Users\HP ENVY\source\repos\HolaMundo\Declaracion_if_mejorada\obj\Debug\netcoreapp3.1\Declaracion_if_mejorada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP ENVY\source\repos\HolaMundo\Declaracion_if_mejorada\obj\Debug\netcoreapp3.1\Declaracion_if_mejorada.AssemblyInfoInputs.cache
+C:\Users\HP ENVY\source\repos\HolaMundo\Declaracion_if_mejorada\obj\Debug\netcoreapp3.1\Declaracion_if_mejorada.AssemblyInfo.cs
+C:\Users\HP ENVY\source\repos\HolaMundo\Declaracion_if_mejorada\obj\Debug\netcoreapp3.1\Declaracion_if_mejorada.csproj.CoreCompileInputs.cache
+C:\Users\HP ENVY\source\repos\HolaMundo\Declaracion_if_mejorada\obj\Debug\netcoreapp3.1\Declaracion_if_mejorada.dll
+C:\Users\HP ENVY\source\repos\HolaMundo\Declaracion_if_mejorada\obj\Debug\netcoreapp3.1\Declaracion_if_mejorada.pdb
+C:\Users\HP ENVY\source\repos\HolaMundo\Declaracion_if_mejorada\obj\Debug\netcoreapp3.1\Declaracion_if_mejorada.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\HP ENVY\source\repos\HolaMundo\Clases_y_Objetos\bin\Debug\netcoreapp3.1\Clases_y_Objetos.exe
+C:\Users\HP ENVY\source\repos\HolaMundo\Clases_y_Objetos\bin\Debug\netcoreapp3.1\Clases_y_Objetos.deps.json
+C:\Users\HP ENVY\source\repos\HolaMundo\Clases_y_Objetos\bin\Debug\netcoreapp3.1\Clases_y_Objetos.runtimeconfig.json
+C:\Users\HP ENVY\source\repos\HolaMundo\Clases_y_Objetos\bin\Debug\netcoreapp3.1\Clases_y_Objetos.runtimeconfig.dev.json
+C:\Users\HP ENVY\source\repos\HolaMundo\Clases_y_Objetos\bin\Debug\netcoreapp3.1\Clases_y_Objetos.dll
+C:\Users\HP ENVY\source\repos\HolaMundo\Clases_y_Objetos\bin\Debug\netcoreapp3.1\Clases_y_Objetos.pdb
+C:\Users\HP ENVY\source\repos\HolaMundo\Clases_y_Objetos\obj\Debug\netcoreapp3.1\Clases_y_Objetos.csproj.AssemblyReference.cache
+C:\Users\HP ENVY\source\repos\HolaMundo\Clases_y_Objetos\obj\Debug\netcoreapp3.1\Clases_y_Objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP ENVY\source\repos\HolaMundo\Clases_y_Objetos\obj\Debug\netcoreapp3.1\Clases_y_Objetos.AssemblyInfoInputs.cache
+C:\Users\HP ENVY\source\repos\HolaMundo\Clases_y_Objetos\obj\Debug\netcoreapp3.1\Clases_y_Objetos.AssemblyInfo.cs
+C:\Users\HP ENVY\source\repos\HolaMundo\Clases_y_Objetos\obj\Debug\netcoreapp3.1\Clases_y_Objetos.csproj.CoreCompileInputs.cache
+C:\Users\HP ENVY\source\repos\HolaMundo\Clases_y_Objetos\obj\Debug\netcoreapp3.1\Clases_y_Objetos.dll
+C:\Users\HP ENVY\source\repos\HolaMundo\Clases_y_Objetos\obj\Debug\netcoreapp3.1\Clases_y_Objetos.pdb
+C:\Users\HP ENVY\source\repos\HolaMundo\Clases_y_Objetos\obj\Debug\netcoreapp3.1\Clases_y_Objetos.genruntimeconfig.cache

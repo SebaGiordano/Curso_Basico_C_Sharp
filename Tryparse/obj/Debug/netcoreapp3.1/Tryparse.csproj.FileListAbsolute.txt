@@ -1,0 +1,13 @@
+C:\Users\HP ENVY\source\repos\HolaMundo\Tryparse\bin\Debug\netcoreapp3.1\Tryparse.exe
+C:\Users\HP ENVY\source\repos\HolaMundo\Tryparse\bin\Debug\netcoreapp3.1\Tryparse.deps.json
+C:\Users\HP ENVY\source\repos\HolaMundo\Tryparse\bin\Debug\netcoreapp3.1\Tryparse.runtimeconfig.json
+C:\Users\HP ENVY\source\repos\HolaMundo\Tryparse\bin\Debug\netcoreapp3.1\Tryparse.runtimeconfig.dev.json
+C:\Users\HP ENVY\source\repos\HolaMundo\Tryparse\bin\Debug\netcoreapp3.1\Tryparse.dll
+C:\Users\HP ENVY\source\repos\HolaMundo\Tryparse\bin\Debug\netcoreapp3.1\Tryparse.pdb
+C:\Users\HP ENVY\source\repos\HolaMundo\Tryparse\obj\Debug\netcoreapp3.1\Tryparse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP ENVY\source\repos\HolaMundo\Tryparse\obj\Debug\netcoreapp3.1\Tryparse.AssemblyInfoInputs.cache
+C:\Users\HP ENVY\source\repos\HolaMundo\Tryparse\obj\Debug\netcoreapp3.1\Tryparse.AssemblyInfo.cs
+C:\Users\HP ENVY\source\repos\HolaMundo\Tryparse\obj\Debug\netcoreapp3.1\Tryparse.csproj.CoreCompileInputs.cache
+C:\Users\HP ENVY\source\repos\HolaMundo\Tryparse\obj\Debug\netcoreapp3.1\Tryparse.dll
+C:\Users\HP ENVY\source\repos\HolaMundo\Tryparse\obj\Debug\netcoreapp3.1\Tryparse.pdb
+C:\Users\HP ENVY\source\repos\HolaMundo\Tryparse\obj\Debug\netcoreapp3.1\Tryparse.genruntimeconfig.cache

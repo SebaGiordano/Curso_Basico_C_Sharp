@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ingresos de usuarios/1.0.0": {
+        "runtime": {
+          "Ingresos de usuarios.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ingresos de usuarios/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
